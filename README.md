@@ -1,16 +1,51 @@
-## Hi there 👋
+Hey, I'm Parv Bansal 
 
-<!--
-**parvvvv-v/parvvvv-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer | Data Science Learner
 
-Here are some ideas to get you started:
+🧑‍💻 About Me 🐱
+I'm a passionate Full Stack web & Mobile App Developer who loves building
+real-world applications with clean UI and scalable backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Web & Android App Development
+🔥 Firebase, REST APIs & Modern Tech
+💼 Looking for Internship / Entry-Level Roles
+🚀 Always learning & improving
+🌐 Socials
+  
+
+🧰 Tech Stack
+🌐 Frontend
+HTML CSS JavaScript React Next JS Tailwind
+
+🖥️ Backend
+Node Express REST
+
+📱 Mobile Development
+Java Android
+
+🗄️ Databases
+MySQL Firebase
+
+🛠️ Tools I Use
+VS Code Git GitHub Android Studio MySQL Workbench Postman
+
+📂 Featured Projects
+🌱 EcoPick
+Eco-friendly web platform promoting sustainable practices.
+Tech: React, Tailwind CSS, JavaScript
+
+🤝 SkillSwap
+Skill exchange platform with real-time chat section using Firebase Realtime Database.
+Tech: React, Node.js, Express.js, Firebase
+
+📚 PustakGuru
+Android book discovery & management app with Firebase integration.
+Tech: Java, Android Studio, Firebase, REST APIs
+
+Portfolio-
+Built with React,next.js, Tailwind CSS & Framer Motion .
+📊 GitHub Stats
+
+
+
+⭐ If you like my work, give a star & follow me!
