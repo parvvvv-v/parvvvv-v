@@ -1,51 +1,34 @@
-Hey, I'm Parv Bansal 
+## Parv Bansal
+## Full-Stack Developer | Data Science Enthusiast
 
-Full Stack Web Developer | Data Science Learner
+I’m a passionate developer focused on building real-world applications with clean UI and scalable backends. Currently pursuing my B.Tech in Computer Science at JUET.
 
-🧑‍💻 About Me 🐱
-I'm a passionate Full Stack web & Mobile App Developer who loves building
-real-world applications with clean UI and scalable backend systems.
+## 🧰 Tech Stack
+Frontend: React, Next.js, HTML5, CSS3, JavaScript
+Backend: Node.js, Express.js, REST APIs
+Mobile: Android Development (Java, Kotlin)
+Databases: MongoDB, MySQL, Firebase
+AI/ML: TensorFlow Lite, Computer Vision, YOLO
 
-💡 Web & Android App Development
-🔥 Firebase, REST APIs & Modern Tech
-💼 Looking for Internship / Entry-Level Roles
-🚀 Always learning & improving
-🌐 Socials
-  
-
-🧰 Tech Stack
-🌐 Frontend
-HTML CSS JavaScript React Next JS Tailwind
-
-🖥️ Backend
-Node Express REST
-
-📱 Mobile Development
-Java Android
-
-🗄️ Databases
-MySQL Firebase
-
-🛠️ Tools I Use
-VS Code Git GitHub Android Studio MySQL Workbench Postman
-
-📂 Featured Projects
-🌱 EcoPick
-Eco-friendly web platform promoting sustainable practices.
-Tech: React, Tailwind CSS, JavaScript
+## 📂 Featured Projects
+🛡️ DriverSafe
+An AI-powered mobile app for road safety. It uses TensorFlow Lite and Computer Vision to monitor driver behavior in real-time, detecting drowsiness and distractions to prevent accidents.
+Tech: Java/Kotlin, TensorFlow Lite, Google Maps API
 
 🤝 SkillSwap
-Skill exchange platform with real-time chat section using Firebase Realtime Database.
-Tech: React, Node.js, Express.js, Firebase
+A peer-to-peer platform where skills are the currency. Users trade knowledge through a smart matching system and collaborate via real-time chat and live sessions.
+Tech: React, Node.js, Express, Firebase Realtime Database
 
-📚 PustakGuru
-Android book discovery & management app with Firebase integration.
-Tech: Java, Android Studio, Firebase, REST APIs
+✨ GlowFingers
+A futuristic AR visual engine that transforms hand gestures into generative art and sound. It tracks 21 hand landmarks to trigger shockwaves and reactive audio.
+Tech: MediaPipe, Web Audio API, Canvas API
 
-Portfolio-
-Built with React,next.js, Tailwind CSS & Framer Motion .
-📊 GitHub Stats
+🎨 AirDraw
+A "touchless" digital canvas that allows users to paint in the air. It utilizes Convolutional Neural Networks (CNNs) to process camera frames, recognizing hand skeletons and specific gestures to control the brush.
+Tech: JavaScript, MediaPipe, OpenCV logic
 
+## 💼 Experience & Education
+Developer Intern: Zankla Studio & Apex Planet Software Pvt. Ltd.
+Education: B.Tech in CSE, Jaypee University of Engineering and Technology
 
-
-⭐ If you like my work, give a star & follow me!
+## 🚀 Open to Internships & Junior Roles | Let's build something great!
