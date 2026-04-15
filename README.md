@@ -11,20 +11,16 @@ Databases: MongoDB, MySQL, Firebase
 AI/ML: TensorFlow Lite, Computer Vision, YOLO
 
 ## 📂 Featured Projects
-🛡️ DriverSafe
-An AI-powered mobile app for road safety. It uses TensorFlow Lite and Computer Vision to monitor driver behavior in real-time, detecting drowsiness and distractions to prevent accidents.
+🛡️ DriverSafe is an AI-powered mobile app for road safety. It uses TensorFlow Lite and Computer Vision to monitor driver behavior in real-time, detecting drowsiness and distractions to prevent accidents.
 Tech: Java/Kotlin, TensorFlow Lite, Google Maps API
 
-🤝 SkillSwap
-A peer-to-peer platform where skills are the currency. Users trade knowledge through a smart matching system and collaborate via real-time chat and live sessions.
+🤝 SkillSwap is a peer-to-peer web platform where skills are the currency. Users trade knowledge through a smart matching system and collaborate via real-time chat and live sessions.
 Tech: React, Node.js, Express, Firebase Realtime Database
 
-✨ GlowFingers
-A futuristic AR visual engine that transforms hand gestures into generative art and sound. It tracks 21 hand landmarks to trigger shockwaves and reactive audio.
+✨ GlowFingers is a futuristic AR visual engine that transforms hand gestures into generative art and sound. It tracks 21 hand landmarks to trigger shockwaves and reactive audio.
 Tech: MediaPipe, Web Audio API, Canvas API
 
-🎨 AirDraw
-A "touchless" digital canvas that allows users to paint in the air. It utilizes Convolutional Neural Networks (CNNs) to process camera frames, recognizing hand skeletons and specific gestures to control the brush.
+🎨 AirDraw is a "touchless" digital canvas that allows users to paint in the air. It utilizes Convolutional Neural Networks (CNNs) to process camera frames, recognizing hand skeletons and specific gestures to control the brush.
 Tech: JavaScript, MediaPipe, OpenCV logic
 
 ## 💼 Experience & Education
