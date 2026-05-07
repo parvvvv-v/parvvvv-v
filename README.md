@@ -1,4 +1,3 @@
-## Parv Bansal
 ## Full-Stack Developer | Data Science Enthusiast
 
 I’m a passionate developer focused on building real-world applications with clean UI and scalable backends. Currently pursuing my B.Tech in Computer Science at JUET.
@@ -6,7 +5,7 @@ I’m a passionate developer focused on building real-world applications with cl
 ## 🧰 Tech Stack
 Frontend: React, Next.js, HTML5, CSS3, JavaScript
 Backend: Node.js, Express.js, REST APIs
-Mobile: Android Development (Java, Kotlin)
+Mobile: Android Development (Kotlin)
 Databases: MongoDB, MySQL, Firebase
 AI/ML: TensorFlow Lite, Computer Vision, YOLO
 
@@ -29,7 +28,6 @@ Tech: JavaScript, MediaPipe, OpenCV logic
 
 ## 💼 Experience & Education
 Developer Intern: Zankla Studio & Apex Planet Software Pvt. Ltd.
-
-Education: B.Tech in CSE, Jaypee University of Engineering and Technology
+Education: B.Tech in CSE, Jaypee University of Engineering and Technology, Guna
 
 ## 🚀 Open to Internships & Junior Roles | Let's build something great!
