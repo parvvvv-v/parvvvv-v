@@ -1,4 +1,4 @@
-## Full-Stack Developer | Data Science Enthusiast
+## Full-Stack Developer | DSA Enthusiast
 
 I’m a passionate developer focused on building real-world applications with clean UI and scalable backends. Currently pursuing my B.Tech in Computer Science at JUET.
 
