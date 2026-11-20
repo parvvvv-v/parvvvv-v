@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Parv Bansal 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · DSA Enthusiast </b><br>
-  B.Tech CSE @ JUET'27
+  <b>Full-Stack Developer · DSA Enthusiast · Hackathon Presenter</b><br>
+  B.Tech CSE @ Jaypee University of Engineering and Technology (2023 – 2027)
 </p>
 
 <p align="center">
-  <a href="https://portfolioparvv.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-portfolioparvv.netlify.app-1F3A5F?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/parv-bansal-8472b6282/"><img src="https://img.shields.io/badge/LinkedIn-Parv%20Bansal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/parvvv___/"><img src="https://img.shields.io/badge/LeetCode-parvvv___-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="mailto:parv.proff@gmail.com"><img src="https://img.shields.io/badge/Email-parv.proff%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://portfolioparvv.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/parv-bansal-8472b6282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/parvvv___/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="mailto:parv.proff@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -74,6 +74,7 @@ I build real-world web and mobile applications with clean UI, fast performance a
 
 | Project | What it does | Tech |
 |---|---|---|
+| 🌐 [**Provynk**](https://www.provynk.com) · [Live](https://www.provynk.com) | Global talent and expertise network for SAP and enterprise-tech professionals. Candidates get ATS-scored resumes and job matching, employers post roles and search talent, and consultancies review talent together with shared shortlists and team skill analysis. | HTML, CSS, JavaScript, Firebase Auth, Firestore, PDF.js, Chart.js |
 | 🤝 [**SkillSwap**](https://github.com/parvvvv-v/SkillSwap) · [Live](https://skillswap-web.netlify.app/home.html) | Peer-to-peer learning platform where skills are the currency. Smart matching, gamification rewards and live sessions made learning free and community-driven for 1,000+ users. | HTML, CSS, JavaScript, Firebase, Zoom |
 | ✈️ [**SafarMate**](https://github.com/parvvvv-v/SafarMate) · [Live](https://safarmate.netlify.app/safarmate#top) | Solo-built, client-side trip planner for custom Indian itineraries. Generates daily timelines and tiered budgets from user input, with live data for stays, food and attractions. | HTML, CSS, Vanilla JS, LocalStorage, Geoapify, Nominatim |
 | 🛡️ [**DriverSafe**](https://github.com/parvvvv-v/DriverSafe) | AI-powered Android app that monitors driver alertness in real time. Detects drowsiness (Eye Aspect Ratio) and yawning, and raises instant audio and visual alerts. | Kotlin/Java, TensorFlow Lite, MediaPipe/OpenCV |
