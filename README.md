@@ -75,13 +75,13 @@ I build real-world web and mobile applications with clean UI, fast performance a
 
 | Project | What it does | Tech |
 |---|---|---|
-| [**Provynk**] · [Live](https://www.provynk.com) | Global talent and expertise network for SAP and enterprise-tech professionals. Candidates get ATS-scored resumes and job matching, employers post roles and search talent, and consultancies review talent together with shared shortlists and team skill analysis. | HTML, CSS, JavaScript, Firebase Auth, Firestore, PDF.js, Chart.js |
-| [**SkillSwap**] · [Live](https://skillswap-web.netlify.app/home.html) | Peer-to-peer learning platform where skills are the currency. Smart matching, gamification rewards and live sessions made learning free and community-driven for 1,000+ users. | HTML, CSS, JavaScript, Firebase, Zoom |
-| [**SafarMate**] · [Live](https://safarmate.netlify.app/safarmate#top) | Solo-built, client-side trip planner for custom Indian itineraries. Generates daily timelines and tiered budgets from user input, with live data for stays, food and attractions. | HTML, CSS, Vanilla JS, LocalStorage, Geoapify, Nominatim |
-| [**DriverSafe**] | AI-powered Android app that monitors driver alertness in real time. Detects drowsiness (Eye Aspect Ratio) and yawning, and raises instant audio and visual alerts. | Kotlin/Java, TensorFlow Lite, MediaPipe/OpenCV |
-| [**GlowFingers**] · [Live](https://glowfingers.netlify.app/) | Interactive AR visualizer that turns hand gestures into neon generative art and reactive sound by tracking 21 hand landmarks. | MediaPipe, Web Audio API, Canvas API |
-| [**AirDraw**] · [Live](https://airtype.netlify.app/) | "Touchless" digital canvas where you paint in the air. Recognises hand skeletons and gestures to control the brush. | JavaScript, MediaPipe, OpenCV |
-| [**MyPortfolio**] · [Live](https://portfolioparvv.netlify.app/) | Responsive, interactive portfolio showcasing my work, skills and journey. | HTML, CSS, JavaScript |
+| **Provynk** · [Live](https://www.provynk.com) | Global talent and expertise network for SAP and enterprise-tech professionals. Candidates get ATS-scored resumes and job matching, employers post roles and search talent, and consultancies review talent together with shared shortlists and team skill analysis. | HTML, CSS, JavaScript, Firebase Auth, Firestore, PDF.js, Chart.js |
+| **SkillSwap** · [Live](https://skillswap-web.netlify.app/home.html) | Peer-to-peer learning platform where skills are the currency. Smart matching, gamification rewards and live sessions made learning free and community-driven for 1,000+ users. | HTML, CSS, JavaScript, Firebase, Zoom |
+| **SafarMate** · [Live](https://safarmate.netlify.app/safarmate#top) | Solo-built, client-side trip planner for custom Indian itineraries. Generates daily timelines and tiered budgets from user input, with live data for stays, food and attractions. | HTML, CSS, Vanilla JS, LocalStorage, Geoapify, Nominatim |
+| **DriverSafe** | AI-powered Android app that monitors driver alertness in real time. Detects drowsiness (Eye Aspect Ratio) and yawning, and raises instant audio and visual alerts. | Kotlin/Java, TensorFlow Lite, MediaPipe/OpenCV |
+| **GlowFingers** · [Live](https://glowfingers.netlify.app/) | Interactive AR visualizer that turns hand gestures into neon generative art and reactive sound by tracking 21 hand landmarks. | MediaPipe, Web Audio API, Canvas API |
+| **AirDraw** · [Live](https://airtype.netlify.app/) | "Touchless" digital canvas where you paint in the air. Recognises hand skeletons and gestures to control the brush. | JavaScript, MediaPipe, OpenCV |
+| **MyPortfolio** · [Live](https://portfolioparvv.netlify.app/) | Responsive, interactive portfolio showcasing my work, skills and journey. | HTML, CSS, JavaScript |
 
 ---
 
