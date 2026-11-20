@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Parv Bansal 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · DSA Enthusiast · Hackathon Presenter</b><br>
-  B.Tech CSE @ Jaypee University of Engineering and Technology (2023 – 2027)
+  <b>Full-Stack Developer · DSA Enthusiast </b><br>
+  B.Tech CSE @ JUET'27
 </p>
 
 <p align="center">
