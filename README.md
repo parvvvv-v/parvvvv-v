@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Parv Bansal 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · DSA Enthusiast · Hackathon Presenter</b><br>
-  B.Tech CSE @ Jaypee University of Engineering and Technology (2023 – 2027)
+  <b>Full-Stack Developer · DSA Enthusiast </b><br>
+  B.Tech CSE @ JUET'27
 </p>
 
 <p align="center">
@@ -30,13 +30,14 @@ I build real-world web and mobile applications with clean UI, fast performance a
 
 **Languages**
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-7F52FF?style=flat-square&logo=firebase&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 
 **Frontend & Backend**
 
@@ -74,13 +75,13 @@ I build real-world web and mobile applications with clean UI, fast performance a
 
 | Project | What it does | Tech |
 |---|---|---|
-| 🌐 [**Provynk**](https://www.provynk.com) · [Live](https://www.provynk.com) | Global talent and expertise network for SAP and enterprise-tech professionals. Candidates get ATS-scored resumes and job matching, employers post roles and search talent, and consultancies review talent together with shared shortlists and team skill analysis. | HTML, CSS, JavaScript, Firebase Auth, Firestore, PDF.js, Chart.js |
-| 🤝 [**SkillSwap**](https://github.com/parvvvv-v/SkillSwap) · [Live](https://skillswap-web.netlify.app/home.html) | Peer-to-peer learning platform where skills are the currency. Smart matching, gamification rewards and live sessions made learning free and community-driven for 1,000+ users. | HTML, CSS, JavaScript, Firebase, Zoom |
-| ✈️ [**SafarMate**](https://github.com/parvvvv-v/SafarMate) · [Live](https://safarmate.netlify.app/safarmate#top) | Solo-built, client-side trip planner for custom Indian itineraries. Generates daily timelines and tiered budgets from user input, with live data for stays, food and attractions. | HTML, CSS, Vanilla JS, LocalStorage, Geoapify, Nominatim |
-| 🛡️ [**DriverSafe**](https://github.com/parvvvv-v/DriverSafe) | AI-powered Android app that monitors driver alertness in real time. Detects drowsiness (Eye Aspect Ratio) and yawning, and raises instant audio and visual alerts. | Kotlin/Java, TensorFlow Lite, MediaPipe/OpenCV |
-| ✨ [**GlowFingers**](https://github.com/parvvvv-v/GlowFingers) | Interactive AR visualizer that turns hand gestures into neon generative art and reactive sound by tracking 21 hand landmarks. | MediaPipe, Web Audio API, Canvas API |
-| 🎨 **AirDraw** | "Touchless" digital canvas where you paint in the air. Recognises hand skeletons and gestures to control the brush. | JavaScript, MediaPipe, OpenCV |
-| 🌐 [**MyPortfolio**](https://github.com/parvvvv-v/MyPortfolio) · [Live](https://portfolioparvv.netlify.app/) | Responsive, interactive portfolio showcasing my work, skills and journey. | HTML, CSS, JavaScript |
+| [**Provynk**] · [Live](https://www.provynk.com) | Global talent and expertise network for SAP and enterprise-tech professionals. Candidates get ATS-scored resumes and job matching, employers post roles and search talent, and consultancies review talent together with shared shortlists and team skill analysis. | HTML, CSS, JavaScript, Firebase Auth, Firestore, PDF.js, Chart.js |
+| [**SkillSwap**] · [Live](https://skillswap-web.netlify.app/home.html) | Peer-to-peer learning platform where skills are the currency. Smart matching, gamification rewards and live sessions made learning free and community-driven for 1,000+ users. | HTML, CSS, JavaScript, Firebase, Zoom |
+| [**SafarMate**] · [Live](https://safarmate.netlify.app/safarmate#top) | Solo-built, client-side trip planner for custom Indian itineraries. Generates daily timelines and tiered budgets from user input, with live data for stays, food and attractions. | HTML, CSS, Vanilla JS, LocalStorage, Geoapify, Nominatim |
+| [**DriverSafe**] | AI-powered Android app that monitors driver alertness in real time. Detects drowsiness (Eye Aspect Ratio) and yawning, and raises instant audio and visual alerts. | Kotlin/Java, TensorFlow Lite, MediaPipe/OpenCV |
+| [**GlowFingers**] · [Live](https://glowfingers.netlify.app/) | Interactive AR visualizer that turns hand gestures into neon generative art and reactive sound by tracking 21 hand landmarks. | MediaPipe, Web Audio API, Canvas API |
+| [**AirDraw**] · [Live](https://airtype.netlify.app/) | "Touchless" digital canvas where you paint in the air. Recognises hand skeletons and gestures to control the brush. | JavaScript, MediaPipe, OpenCV |
+| [**MyPortfolio**] · [Live](https://portfolioparvv.netlify.app/) | Responsive, interactive portfolio showcasing my work, skills and journey. | HTML, CSS, JavaScript |
 
 ---
 
